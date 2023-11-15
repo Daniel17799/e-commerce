@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.643a9726.css",
+    "main.js": "/static/js/main.b38677ac.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/png": "/static/media/580b57fbd9996e24bc43bf77.753ccb67e734f35b02bc.png",
+    "static/media/banner-confecciones-garrido-primavera-verano-2017-hombre.jpg": "/static/media/banner-confecciones-garrido-primavera-verano-2017-hombre.44cc20de62a49d682fef.jpg",
+    "index.html": "/index.html",
+    "main.643a9726.css.map": "/static/css/main.643a9726.css.map",
+    "main.b38677ac.js.map": "/static/js/main.b38677ac.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.643a9726.css",
+    "static/js/main.b38677ac.js"
+  ]
+}
